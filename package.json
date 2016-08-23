@@ -1,0 +1,26 @@
+{
+  "name": "archives-at-home",
+  "version": "1.0.0",
+  "description": "An app to crowdsource the OCRing of the historical FT Archives",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftlabs/archives-at-home.git"
+  },
+  "keywords": [
+    "FT",
+    "OCR",
+    "Electron"
+  ],
+  "author": "GitHub",
+  "bugs": {
+    "url": "https://github.com/ftlabs/archives-at-home/issues"
+  },
+  "devDependencies": {
+    "electron-packager": "^7.7.0",
+    "electron-prebuilt": "^1.2.0"
+  }
+}
